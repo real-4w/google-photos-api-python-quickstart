@@ -7,4 +7,4 @@ See
 
 https://github.com/googleapis/google-api-python-client/blob/master/docs/start.md
 
-https://console.developers.google.com/apis/credentials/wizard?api=photoslibrary.googleapis.com&project=willem-photo-test&supportedpurview=project
+https://console.developers.google.com/apis/credentials/
